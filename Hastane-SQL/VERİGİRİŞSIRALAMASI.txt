@@ -1,0 +1,17 @@
+
+Veri Giriş Sıralaması
+1\.İller
+2\.İlçeler
+3\.Hastaneler
+4\.Poliklinikler
+5\.HastanaPoliklinikDetay
+6\.Unvanlar
+7\.Personel
+8\.KanGrubu
+9\.Hastalar
+10\.HastaGecmisi
+11\.İlaçlar
+12\.Receteler
+13\.ReceteIlacDetay
+14\.Randevular
+15\.Muayeneler
